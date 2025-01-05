@@ -13,6 +13,5 @@ A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Cur
 # My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaoumag&show_icons=true&theme=radical)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oumaoumag&theme=radical&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
-
+ 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=oumaoumag&layout=compact)
