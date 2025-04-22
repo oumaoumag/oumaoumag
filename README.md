@@ -6,8 +6,8 @@
 
 A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
 
-### 🌱 I'm currently learning
-- Golang      - rust      - Foundational Mathematics
+### 🌱 I'm currently Working With.
+- Golang      - rust     -JavaScript -Python -TypeScript - Foundational Mathematics
 
 
 # My Github Stats
