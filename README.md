@@ -6,7 +6,7 @@
 
 A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
 
-### 🌱 I'm currently Working on Mastery of.
+### 🌱 I'm currently Working on Mastery of:
 - Golang
 - Rust
 - JavaScript
