@@ -6,14 +6,14 @@
 
 A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
 
-### 🌱 I'm currently Working on Mastery of:
+### 🌱 I write:
 - Golang
 - Rust
 - JavaScript
 - Python
 - TypeScript
-- Foundational Mathematics
-
+- SuiMove
+- Solidity
 
 # My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oumaoumag&show_icons=true&theme=radical)
