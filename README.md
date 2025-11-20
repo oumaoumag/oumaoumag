@@ -4,7 +4,7 @@
 [![Codewars](https://www.codewars.com/users/your_username/badges/micro)](https://www.codewars.com/users/oumaoumag)||
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ouma_godwin1)
 
-A passionate Software Developer, and  👩‍💻 student from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
+A passionate Software Developer, from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
 
 ### 🌱 I write:
 - Golang
