@@ -4,11 +4,11 @@
 [![Codewars](https://www.codewars.com/users/your_username/badges/micro)](https://www.codewars.com/users/oumaoumag)||
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat-logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/ouma_godwin1)
 
-A passionate Software Developer, from Kisumu-Kenya. Currently training @Zone01Kisumu and working towards Blockchain development.
+A passionate Full Blockchain Developer, from Kisumu-Kenya with  over 3 years experience working in fast software developement fields in both managerial and developer levels.
 
 ### 🌱 I write:
 - Golang
-- Rust
+- Rust    
 - JavaScript
 - TypeScript
 - Python
